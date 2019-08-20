@@ -1,4 +1,4 @@
-[
+export const GreatArtists = [
   {
     "id": 0,
     "name": "Amedeo Modigliani",
